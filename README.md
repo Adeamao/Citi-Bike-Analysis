@@ -10,7 +10,7 @@ This repository contains the work completed for the Citi Bike data analysis proj
 
 ## Tableau Storyboard
 
-The Tableau storyboard can be viewed [here](https://public.tableau.com/views/Your_Storyboard_Link).
+The Tableau storyboard can be viewed [here]([https://public.tableau.com/views/Your_Storyboard_Link](https://public.tableau.com/app/profile/adewale.omotosho.amao/viz/CitiBike_17218543524940/CitiBike-Analysis)).
 
 ## Summary
 
