@@ -1,0 +1,331 @@
+start_station_name,ride_start_date
+1 Ave & E 15 St,191
+1 Ave & E 18 St,143
+1 Ave & E 30 St,126
+1 Ave & E 44 St,54
+10 Ave & W 28 St,140
+11 Ave & W 27 St,88
+11 Ave & W 41 St,136
+12 Ave & W 40 St,122
+2 Ave & E 31 St,235
+2 Ave & E 58 St,121
+3 Ave & Schermerhorn St,10
+5 Ave & E 29 St,166
+6 Ave & Broome St,48
+6 Ave & Canal St,88
+6 Ave & W 33 St,180
+7 Ave & Farragut St,4
+8 Ave & W 31 St,359
+8 Ave & W 33 St,236
+8 Ave & W 52 St,156
+9 Ave & W 14 St,193
+9 Ave & W 16 St,187
+9 Ave & W 18 St,128
+9 Ave & W 22 St,205
+9 Ave & W 45 St,185
+Adelphi St & Myrtle Ave,52
+Allen St & E Houston St,140
+Allen St & Hester St,122
+Allen St & Rivington St,213
+Ashland Pl & Hanson Pl,93
+Atlantic Ave & Fort Greene Pl,64
+Atlantic Ave & Furman St,34
+Avenue D & E 12 St,32
+Avenue D & E 3 St,54
+Avenue D & E 8 St,28
+Bank St & Hudson St,151
+Bank St & Washington St,109
+Barclay St & Church St,228
+Barrow St & Hudson St,242
+Bayard St & Baxter St,141
+Bedford Ave & S 9th St,11
+Bialystoker Pl & Delancey St,63
+Bond St & Schermerhorn St,57
+Broad St & Bridge St,46
+Broadway & Battery Pl,78
+Broadway & Berry St,23
+Broadway & E 14 St,352
+Broadway & E 22 St,259
+Broadway & W 24 St,254
+Broadway & W 29 St,202
+Broadway & W 32 St,175
+Broadway & W 36 St,89
+Broadway & W 37 St,110
+Broadway & W 39 St,120
+Broadway & W 41 St,153
+Broadway & W 49 St,149
+Broadway & W 51 St,137
+Broadway & W 53 St,189
+Broadway & W 55 St,181
+Broadway & W 58 St,208
+Broadway & W 60 St,234
+Cadman Plaza E & Red Cross Pl,2
+Cadman Plaza E & Tillary St,26
+Canal St & Rutgers St,144
+Carlton Ave & Park Ave,46
+Carmine St & 6 Ave,245
+Catherine St & Monroe St,38
+Central Park S & 6 Ave,101
+Centre St & Chambers St,175
+Centre St & Worth St,81
+Cherry St,58
+Christopher St & Greenwich St,237
+Church St & Leonard St,102
+Clark St & Henry St,94
+Clermont Ave & Lafayette Ave,35
+Clermont Ave & Park Ave,9
+Cleveland Pl & Spring St,289
+Cliff St & Fulton St,115
+Clinton Ave & Flushing Ave,17
+Clinton Ave & Myrtle Ave,53
+Clinton St & Grand St,105
+Clinton St & Joralemon St,46
+Clinton St & Tillary St,34
+Columbia Heights & Cranberry St,34
+Columbia St & Rivington St,59
+Concord St & Bridge St,14
+Cumberland St & Lafayette Ave,43
+DeKalb Ave & Hudson Ave,61
+DeKalb Ave & S Portland Ave,37
+DeKalb Ave & Skillman St,20
+DeKalb Ave & Vanderbilt Ave,41
+Dean St & 4 Ave,58
+Division St & Bowery,91
+Duane St & Greenwich St,95
+Duffield St & Willoughby St,29
+E 10 St & 5 Ave,141
+E 10 St & Avenue A,150
+E 11 St & 1 Ave,183
+E 11 St & 2 Ave,197
+E 11 St & Broadway,119
+E 12 St & 3 Ave,180
+E 13 St & Avenue A,192
+E 14 St & Avenue B,139
+E 15 St & 3 Ave,140
+E 16 St & 5 Ave,181
+E 16 St & Irving Pl,180
+E 17 St & Broadway,432
+E 19 St & 3 Ave,172
+E 2 St & 2 Ave,122
+E 2 St & Avenue B,154
+E 2 St & Avenue C,88
+E 20 St & 2 Ave,184
+E 20 St & FDR Drive,136
+E 20 St & Park Ave,72
+E 23 St & 1 Ave,175
+E 25 St & 1 Ave,112
+E 25 St & 2 Ave,209
+E 27 St & 1 Ave,75
+E 3 St & 1 Ave,138
+E 30 St & Park Ave S,164
+E 31 St & 3 Ave,245
+E 32 St & Park Ave,237
+E 33 St & 1 Ave,178
+E 33 St & 5 Ave,103
+E 37 St & Lexington Ave,112
+E 39 St & 2 Ave,259
+E 39 St & 3 Ave,172
+E 4 St & 2 Ave,202
+E 40 St & 5 Ave,178
+E 43 St & 2 Ave,85
+E 43 St & Vanderbilt Ave,293
+E 45 St & 3 Ave,107
+E 47 St & 1 Ave,23
+E 47 St & 2 Ave,120
+E 47 St & Park Ave,130
+E 48 St & 3 Ave,121
+E 5 St & Avenue C,76
+E 51 St & 1 Ave,78
+E 51 St & Lexington Ave,118
+E 52 St & 2 Ave,100
+E 53 St & Lexington Ave,132
+E 53 St & Madison Ave,122
+E 55 St & 2 Ave,97
+E 55 St & Lexington Ave,69
+E 56 St & 3 Ave,115
+E 56 St & Madison Ave,71
+E 58 St & 3 Ave,162
+E 59 St & Sutton Pl,90
+E 6 St & Avenue B,170
+E 6 St & Avenue D,48
+E 7 St & Avenue A,173
+E 9 St & Avenue C,134
+Elizabeth St & Hester St,150
+Emerson Pl & Myrtle Ave,30
+FDR Drive & E 35 St,125
+Flushing Ave & Carlton Ave,20
+Forsyth St & Broome St,145
+Forsyth St & Canal St,89
+Franklin Ave & Myrtle Ave,3
+Franklin St & W Broadway,110
+Front St & Gold St,25
+Front St & Maiden Ln,91
+Front St & Washington St,71
+Fulton St & Clermont Ave,16
+Fulton St & Grand Ave,29
+Fulton St & Rockwell Pl,85
+Fulton St & Waverly Ave,47
+Fulton St & William St,92
+Gallatin Pl & Livingston St,22
+Grand Army Plaza & Central Park S,136
+Grand St & Greene St,76
+Grand St & Havemeyer St,55
+Great Jones St,150
+Greenwich Ave & 8 Ave,309
+Greenwich Ave & Charles St,108
+Greenwich St & N Moore St,168
+Greenwich St & Warren St,224
+Hancock St & Bedford Ave,15
+Hanover Pl & Livingston St,12
+Harrison St & Hudson St,76
+Henry St & Atlantic Ave,65
+Henry St & Grand St,71
+Henry St & Poplar St,36
+Hicks St & Montague St,67
+Howard St & Centre St,163
+Hudson St & Reade St,108
+Jay St & Tech Pl,18
+John St & William St,85
+Johnson St & Gold St,52
+Joralemon St & Adams St,92
+Kent Ave & S 11 St,24
+LaGuardia Pl & W 3 St,195
+Lafayette Ave & Classon Ave,31
+Lafayette Ave & Fort Greene Pl,34
+Lafayette Ave & St James Pl,25
+Lafayette St & E 8 St,446
+Lafayette St & Jersey St,89
+Laight St & Hudson St,33
+Lawrence St & Willoughby St,219
+Lefferts Pl & Franklin Ave,34
+Lexington Ave & Classon Ave,22
+Lexington Ave & E 24 St,254
+Lexington Ave & E 26 St,224
+Liberty St & Broadway,149
+Lispenard St & Broadway,107
+Little West St & 1 Pl,89
+MacDougal St & Prince St,254
+MacDougal St & Washington Sq,123
+Macon St & Nostrand Ave,21
+Madison St & Clinton St,50
+Madison St & Montgomery St,64
+Maiden Ln & Pearl St,131
+Market St & Cherry St,36
+Mercer St & Bleecker St,204
+Mercer St & Spring St,147
+Metropolitan Ave & Bedford Ave,71
+Monroe St & Bedford Ave,18
+Monroe St & Classon Ave,15
+Montague St & Clinton St,56
+Mott St & Prince St,194
+Murray St & West St,88
+Myrtle Ave & St Edwards St,19
+Nassau St & Navy St,12
+Norfolk St & Broome St,112
+Old Fulton St,43
+Old Slip & Front St,46
+Park Ave & St Edwards St,7
+Park Pl & Church St,133
+Pearl St & Anchorage Pl,63
+Pearl St & Hanover Square,93
+Perry St & Bleecker St,119
+Pershing Square N,451
+Pershing Square S,255
+Pike St & E Broadway,62
+Pike St & Monroe St,46
+Pitt St & Stanton St,37
+Railroad Ave & Kay Ave,5
+Reade St & Broadway,92
+Rivington St & Chrystie St,107
+Rivington St & Ridge St,61
+S 3 St & Bedford Ave,30
+S 4 St & Wythe Ave,36
+S 5 Pl & S 4 St,73
+S Portland Ave & Hanson Pl,28
+Sands St & Gold St,29
+Shevchenko Pl & E 6 St,115
+South End Ave & Liberty St,188
+South St & Gouverneur Ln,92
+South St & Whitehall St,67
+Spruce St & Nassau St,95
+St James Pl & Oliver St,74
+St James Pl & Pearl St,58
+St Marks Pl & 1 Ave,159
+St Marks Pl & 2 Ave,169
+Stanton St & Chrystie St,152
+Stanton St & Mangin St,47
+State St,85
+State St & Smith St,76
+Suffolk St & Stanton St,166
+Sullivan St & Washington Sq,182
+University Pl & E 14 St,353
+Vesey Pl & River Terrace,226
+W 11 St & 6 Ave,134
+W 13 St & 5 Ave,148
+W 13 St & 6 Ave,216
+W 13 St & 7 Ave,180
+W 14 St & The High Line,81
+W 15 St & 7 Ave,194
+W 16 St & The High Line,136
+W 17 St & 8 Ave,266
+W 18 St & 6 Ave,249
+W 20 St & 11 Ave,424
+W 20 St & 7 Ave,234
+W 20 St & 8 Ave,160
+W 21 St & 6 Ave,304
+W 22 St & 10 Ave,239
+W 22 St & 8 Ave,184
+W 24 St & 7 Ave,218
+W 25 St & 6 Ave,223
+W 26 St & 10 Ave,206
+W 26 St & 8 Ave,177
+W 27 St & 7 Ave,179
+W 29 St & 9 Ave,122
+W 31 St & 7 Ave,228
+W 33 St & 7 Ave,257
+W 34 St & 11 Ave,55
+W 37 St & 10 Ave,166
+W 37 St & 5 Ave,129
+W 38 St & 8 Ave,206
+W 39 St & 9 Ave,238
+W 4 St & 7 Ave S,328
+W 41 St & 8 Ave,316
+W 42 St & 8 Ave,133
+W 43 St & 10 Ave,196
+W 43 St & 6 Ave,146
+W 44 St & 5 Ave,100
+W 45 St & 6 Ave,123
+W 45 St & 8 Ave,147
+W 46 St & 11 Ave,106
+W 47 St & 10 Ave,113
+W 49 St & 5 Ave,81
+W 49 St & 8 Ave,182
+W 51 St & 6 Ave,125
+W 52 St & 11 Ave,145
+W 52 St & 5 Ave,96
+W 52 St & 9 Ave,88
+W 53 St & 10 Ave,107
+W 54 St & 9 Ave,79
+W 56 St & 10 Ave,86
+W 56 St & 6 Ave,153
+W 59 St & 10 Ave,122
+W Broadway & Spring St,168
+W Houston St & Hudson St,249
+Warren St & Church St,121
+Washington Ave & Greene Ave,18
+Washington Ave & Park Ave,31
+Washington Park,26
+Washington Pl & 6 Ave,117
+Washington Pl & Broadway,161
+Washington Square E,219
+Washington St & Gansevoort St,165
+Water - Whitehall Plaza,45
+Watts St & Greenwich St,143
+West St & Chambers St,299
+West Thames St,144
+William St & Pine St,102
+Willoughby Ave & Hall St,36
+Willoughby Ave & Walworth St,23
+Willoughby St & Fleet St,52
+Wythe Ave & Metropolitan Ave,60
+York St & Jay St,84
